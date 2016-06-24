@@ -1,1 +1,1 @@
-module.exports = require('./lib/exploder');
+module.exports = require('./dist/exploder');
