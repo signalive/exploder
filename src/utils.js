@@ -7,6 +7,7 @@ export var Promises = {
       loader.open('GET', url, true);
       loader.setRequestHeader("Accept", accept);
       loader.responseType = responseType;
+      loader.withCredentials = true;
       loader.onload = function() {
         // This is called even on 404 etc
         // so check the status
