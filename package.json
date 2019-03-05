@@ -1,6 +1,6 @@
 {
   "name": "exploder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "slices gifs into frames",
   "main": "dist/exploder.js",
   "scripts": {
